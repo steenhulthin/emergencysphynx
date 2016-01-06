@@ -16,5 +16,11 @@ var kittens = [
     "title": "Kinsey the Sphynx",
     "imageUrl": "https://farm4.staticflickr.com/3262/2555773089_c63edcb5ac_o.jpg",
     "imageAlt": "Our 8 month old cat Kinsey. He is a blue Sphynx. Seen here on a home built cat tree made from an old tree branch, rope and plywood."
+  },
+  {
+    "url": "https://www.flickr.com/photos/thomissen/17150710915/",
+    "title": "A Sphynx Cat",
+    "imageUrl": "https://farm9.staticflickr.com/8709/17150710915_6d2a3777a7_b.jpg",
+    "imageAlt": "A Sphynx Cat"
   }
 ];
