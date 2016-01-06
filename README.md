@@ -1,18 +1,21 @@
-Emergency Kitten!
+Emergency Sphynx!
 =================
 
-This is the code behind <http://www.emergencykitten.com/>. It's an HTML page
+When <http://www.emergencykitten.com/> is not enough...
+
+This is the code behind <http://www.emergencysphynx.com/>. It's an HTML page
 with some JavaScript. Because kittens are simple like that.
 
+The project is basically taken from <https://github.com/rgrove/emergencykitten>. I simply though the world needed the same specifically for sphynxes.
 
 Installing
 ----------
 
 1. Clone this git repo (fork it first if you plan to make changes).
 
-        $ git clone git://github.com/rgrove/emergencykitten.git
+        $ git clone https://github.com/steenhulthin/emergencysphynx.git
 
-2. Open `index.html` in a browser and you should see Emergency Kitten!
+2. Open `index.html` in a browser and you should see Emergency Sphynx!
 
 
 License
