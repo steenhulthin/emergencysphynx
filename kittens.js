@@ -22,5 +22,11 @@ var kittens = [
     "title": "A Sphynx Cat",
     "imageUrl": "https://farm9.staticflickr.com/8709/17150710915_6d2a3777a7_b.jpg",
     "imageAlt": "A Sphynx Cat"
+  },
+  {
+    "url": "https://www.flickr.com/photos/sunfox/130174254/",
+    "title": "Uthello",
+    "imageUrl": "https://farm1.staticflickr.com/44/130174254_a88c45b214_b.jpg",
+    "imageAlt": "Uthello"
   }
 ];
