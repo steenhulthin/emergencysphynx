@@ -28,7 +28,7 @@ var kittens = [
     "title": "Uthello",
     "imageUrl": "https://farm1.staticflickr.com/44/130174254_a88c45b214_b.jpg",
     "imageAlt": "Uthello"
-  }
+  },
   {
     "url": "https://www.flickr.com/photos/caylynn/313925928",
     "title": "Dragonheart",
