@@ -35,5 +35,4 @@ var kittens = [
     "imageUrl": "https://farm1.staticflickr.com/107/313925928_56bc7c6789_o.jpg",
     "imageAlt": "Dragonheart"
   }
-  }
 ];
