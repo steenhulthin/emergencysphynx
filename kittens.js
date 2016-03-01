@@ -77,52 +77,22 @@ var kittens = [
     "imageUrl": "https://farm6.staticflickr.com/5476/12779894975_a609dafe96_z.jpg",
     "imageAlt": "Brothers"
   },
-  {<a data-flickr-embed="true"  href="https://www.flickr.com/photos/sharynmorrow/34923531/" title="hairless and fearless"><img src="https://farm1.staticflickr.com/23/34923531_8d3076446f_z.jpg?zz=1" width="640" height="480" alt="hairless and fearless"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  {
     "url": "https://www.flickr.com/photos/sharynmorrow/34923531/",
     "title": "hairless and fearless",
     "imageUrl": "https://farm1.staticflickr.com/23/34923531_8d3076446f_z.jpg?zz=1",
     "imageAlt": "hairless and fearless"
   },
   {
-    "url": "https://www.flickr.com/photos/sunfox/130174254/",
-    "title": "Uthello",
-    "imageUrl": "https://farm1.staticflickr.com/44/130174254_a88c45b214_b.jpg",
-    "imageAlt": "Uthello"
+    "url": "https://www.flickr.com/photos/skithund/74598519/",
+    "title": "Freddy &amp; Amelie",
+    "imageUrl": "https://farm1.staticflickr.com/36/74598519_1633985eb7_z.jpg?zz=1",
+    "imageAlt": "Freddy &amp; Amelie"
   },
   {
-    "url": "https://www.flickr.com/photos/sunfox/130174254/",
-    "title": "Uthello",
-    "imageUrl": "https://farm1.staticflickr.com/44/130174254_a88c45b214_b.jpg",
-    "imageAlt": "Uthello"
-  },
-  {
-    "url": "https://www.flickr.com/photos/sunfox/130174254/",
-    "title": "Uthello",
-    "imageUrl": "https://farm1.staticflickr.com/44/130174254_a88c45b214_b.jpg",
-    "imageAlt": "Uthello"
-  },
-  {
-    "url": "https://www.flickr.com/photos/sunfox/130174254/",
-    "title": "Uthello",
-    "imageUrl": "https://farm1.staticflickr.com/44/130174254_a88c45b214_b.jpg",
-    "imageAlt": "Uthello"
-  },
-  {
-    "url": "https://www.flickr.com/photos/sunfox/130174254/",
-    "title": "Uthello",
-    "imageUrl": "https://farm1.staticflickr.com/44/130174254_a88c45b214_b.jpg",
-    "imageAlt": "Uthello"
-  },
-  {
-    "url": "https://www.flickr.com/photos/sunfox/130174254/",
-    "title": "Uthello",
-    "imageUrl": "https://farm1.staticflickr.com/44/130174254_a88c45b214_b.jpg",
-    "imageAlt": "Uthello"
-  },
-  {
-    "url": "https://www.flickr.com/photos/sunfox/130174254/",
-    "title": "Uthello",
-    "imageUrl": "https://farm1.staticflickr.com/44/130174254_a88c45b214_b.jpg",
-    "imageAlt": "Uthello"
+    "url": "https://www.flickr.com/photos/arnoarno/6466956427/",
+    "title": "Untitled",
+    "imageUrl": "https://farm8.staticflickr.com/7144/6466956427_9fce35eeba_z.jpg",
+    "imageAlt": "Untitled"
   }
 ];
