@@ -30,7 +30,6 @@ var kittens = [
     "imageAlt": "Uthello"
   },
   {
-<<<<<<< HEAD
     "url": "https://www.flickr.com/photos/uravenu/4141026625/",
     "title": "Oswald",
     "imageUrl": "https://farm3.staticflickr.com/2715/4141026625_6e2b6cedf1_b.jpg",
