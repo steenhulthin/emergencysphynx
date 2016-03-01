@@ -42,10 +42,10 @@ var kittens = [
     "imageAlt": "Untitled"
   },
   {
-    "url": "https://www.flickr.com/photos/sunfox/130174254/",
-    "title": "Uthello",
-    "imageUrl": "https://farm1.staticflickr.com/44/130174254_a88c45b214_b.jpg",
-    "imageAlt": "Uthello"
+    "url": "https://www.flickr.com/photos/80248954@N00/5159116679/",
+    "title": "Ari &amp; Benny - Busy Sunday Afternoon",
+    "imageUrl": "https://farm2.staticflickr.com/1386/5159116679_b7c02fbbe6_b.jpg",
+    "imageAlt": "Ari &amp; Benny - Busy Sunday Afternoon"
   },
   {
     "url": "https://www.flickr.com/photos/sunfox/130174254/",
