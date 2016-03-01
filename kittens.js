@@ -66,10 +66,10 @@ var kittens = [
     "imageAlt": "Untitled"
   },
   {
-    "url": "https://www.flickr.com/photos/sunfox/130174254/",
-    "title": "Uthello",
-    "imageUrl": "https://farm1.staticflickr.com/44/130174254_a88c45b214_b.jpg",
-    "imageAlt": "Uthello"
+    "url": "https://www.flickr.com/photos/80248954@N00/3372820720/",
+    "title": "Ari&amp;Benny march 2009",
+    "imageUrl": "https://farm4.staticflickr.com/3604/3372820720_c730c872c3_z.jpg?zz=1",
+    "imageAlt": "Ari&amp;Benny march 2009"
   },
   {
     "url": "https://www.flickr.com/photos/sunfox/130174254/",
