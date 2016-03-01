@@ -30,6 +30,7 @@ var kittens = [
     "imageAlt": "Uthello"
   },
   {
+<<<<<<< HEAD
     "url": "https://www.flickr.com/photos/uravenu/4141026625/",
     "title": "Oswald",
     "imageUrl": "https://farm3.staticflickr.com/2715/4141026625_6e2b6cedf1_b.jpg",
@@ -94,5 +95,11 @@ var kittens = [
     "title": "Untitled",
     "imageUrl": "https://farm8.staticflickr.com/7144/6466956427_9fce35eeba_z.jpg",
     "imageAlt": "Untitled"
+  },
+  {
+    "url": "https://www.flickr.com/photos/caylynn/313925928",
+    "title": "Dragonheart",
+    "imageUrl": "https://farm1.staticflickr.com/107/313925928_56bc7c6789_o.jpg",
+    "imageAlt": "Dragonheart"
   }
 ];
