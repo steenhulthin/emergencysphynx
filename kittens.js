@@ -72,16 +72,16 @@ var kittens = [
     "imageAlt": "Ari&amp;Benny march 2009"
   },
   {
-    "url": "https://www.flickr.com/photos/sunfox/130174254/",
-    "title": "Uthello",
-    "imageUrl": "https://farm1.staticflickr.com/44/130174254_a88c45b214_b.jpg",
-    "imageAlt": "Uthello"
+    "url": "https://www.flickr.com/photos/thetopaz/12779894975/",
+    "title": "Brothers",
+    "imageUrl": "https://farm6.staticflickr.com/5476/12779894975_a609dafe96_z.jpg",
+    "imageAlt": "Brothers"
   },
-  {
-    "url": "https://www.flickr.com/photos/sunfox/130174254/",
-    "title": "Uthello",
-    "imageUrl": "https://farm1.staticflickr.com/44/130174254_a88c45b214_b.jpg",
-    "imageAlt": "Uthello"
+  {<a data-flickr-embed="true"  href="https://www.flickr.com/photos/sharynmorrow/34923531/" title="hairless and fearless"><img src="https://farm1.staticflickr.com/23/34923531_8d3076446f_z.jpg?zz=1" width="640" height="480" alt="hairless and fearless"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    "url": "https://www.flickr.com/photos/sharynmorrow/34923531/",
+    "title": "hairless and fearless",
+    "imageUrl": "https://farm1.staticflickr.com/23/34923531_8d3076446f_z.jpg?zz=1",
+    "imageAlt": "hairless and fearless"
   },
   {
     "url": "https://www.flickr.com/photos/sunfox/130174254/",
