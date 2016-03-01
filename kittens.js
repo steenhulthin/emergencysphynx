@@ -54,10 +54,10 @@ var kittens = [
     "imageAlt": "Untitled"
   },
   {
-    "url": "https://www.flickr.com/photos/sunfox/130174254/",
-    "title": "Uthello",
-    "imageUrl": "https://farm1.staticflickr.com/44/130174254_a88c45b214_b.jpg",
-    "imageAlt": "Uthello"
+    "url": "https://www.flickr.com/photos/80248954@N00/8441603325/",
+    "title": "Ari Benny Sunday nap",
+    "imageUrl": "https://farm9.staticflickr.com/8496/8441603325_8f89011525_b.jpg",
+    "imageAlt": "Ari Benny Sunday nap"
   },
   {
     "url": "https://www.flickr.com/photos/sunfox/130174254/",
