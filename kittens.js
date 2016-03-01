@@ -36,10 +36,10 @@ var kittens = [
     "imageAlt": "Oswald"
   },
   {
-    "url": "https://www.flickr.com/photos/sunfox/130174254/",
-    "title": "Uthello",
-    "imageUrl": "https://farm1.staticflickr.com/44/130174254_a88c45b214_b.jpg",
-    "imageAlt": "Uthello"
+    "url": "https://www.flickr.com/photos/arnoarno/6802887386/",
+    "title": "Untitled",
+    "imageUrl": "https://farm8.staticflickr.com/7041/6802887386_df42739914_b.jpg",
+    "imageAlt": "Untitled"
   },
   {
     "url": "https://www.flickr.com/photos/sunfox/130174254/",
